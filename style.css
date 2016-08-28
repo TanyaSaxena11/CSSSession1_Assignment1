@@ -1,0 +1,58 @@
+h1{
+	text-align: center;
+}
+
+.design{
+	width:500px;
+	height:130px;
+	border: 1px solid;
+	position:relative;
+	left:400px;	
+}
+
+.designnexttable{
+	width:320px;
+	height:78px;
+	border: 1px solid;
+	position:absolute;
+	left:490px;
+}
+
+.designthirdtable{
+	width:420px;
+	height:330px;
+	border: 1px solid;
+	position:absolute;
+	left:450px;
+}
+
+.heading_style{
+	font-weight: bold;
+	border: 1px solid;
+	height:18px;
+	width :489px;	
+	position: absolute;
+	padding-bottom:7px; 	
+}
+
+.heading_style_nexttable{
+	font-weight: bold;
+	border: 1px solid;
+	height:18px;
+	width :310px;	
+	position: absolute;
+	padding-bottom: 4px;
+}
+
+.heading_style_thirdtable{
+	font-weight: bold;
+	border: 1px solid;
+	height:18px;
+	width :410px;	
+	position: absolute;
+}
+
+.outline{
+	border: 1px solid;
+	height:2px;	
+}
